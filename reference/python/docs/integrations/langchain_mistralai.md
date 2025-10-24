@@ -4,4 +4,11 @@ title: MistralAI - LangChain Integration Reference
 
 # :simple-mistralai:{ .lg .middle } `langchain-mistralai`
 
-This package ref has not yet been migrated to v1. See the [old ref](https://python.langchain.com/api_reference/mistralai/index.html).
+[![PyPI - Version](https://img.shields.io/pypi/v/langchain-mistralai?label=%20)](https://pypi.org/project/langchain-mistralai/#history)
+[![PyPI - License](https://img.shields.io/pypi/l/langchain-mistralai)](https://opensource.org/licenses/MIT)
+[![PyPI - Downloads](https://img.shields.io/pepy/dt/langchain-mistralai)](https://pypistats.org/packages/langchain-mistralai)
+
+!!! note
+    This package ref has not yet been fully migrated to v1.
+
+::: langchain_mistralai
